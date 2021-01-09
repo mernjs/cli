@@ -1,0 +1,35 @@
+{
+  "name": "mernjs-cli",
+  "version": "0.0.7",
+  "description": "MERN.JS is a super simple boilerplate for building web and mobile apps in pure JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "cli",
+    "mern",
+    "mernjs",
+    "isomorphic",
+    "boilerplate",
+    "react",
+    "redux",
+    "express",
+    "mongo",
+    "mongodb",
+    "nodejs",
+    "react-native"
+  ],
+  "author": "MernJs Community <mernjscommunity@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mernjs/cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mernjs/cli/issues"
+  },
+  "homepage": "https://github.com/mernjs/cli#readme"
+}
