@@ -29,8 +29,26 @@ cd my_project
 ```
 mernjs serve
 ```
+	
+## Support
+
+If you have any issues or bugs, report in our [Github](https://github.com/mernjs/cli/issues).
+
+Please email us with any query via mernjscommunity@gmail.com.
+
+## Social
+
+Follow us on [Facebook](https://www.facebook.com/), [Twitter](https://twitter.com/mernjs), [LinkedIn](https://www.linkedin.com/in/mernjs-community-269551191/) and [Youtube](https://www.youtube.com/channel/UCAcmuHoa3sEN_KuwFYk6xMw) for updates, news, and information on the MERN.JS stack.
+
+Join us on the [Gitter Group](https://gitter.im/mernjs/mernjs), [Google Group](https://groups.google.com/g/mernjs) and [Facebook Group](https://www.facebook.com/) to discuss features, questions, and suggestions.
 
 ## Links
+[Changelog](https://github.com/mernjs/cli/releases)
+
+[Gitter](https://gitter.im/mernjs/mernjs)
+
+[Facebook](https://www.facebook.com/)
+
 [Twitter](https://twitter.com/mernjs)
 
 [LinkedIn](https://www.linkedin.com/in/mernjs-community-269551191/)
