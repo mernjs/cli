@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# [![npm version](https://img.shields.io/npm/v/@mernjs/cli)](https://www.npmjs.com/package/@mernjs/cli) [![github open issues](https://img.shields.io/github/issues-raw/mernjs/cli)](https://github.com/mernjs/cli/issues) [![github close issues](https://img.shields.io/github/issues-closed-raw/mernjs/cli)](https://github.com/mernjs/cli/issues?q=is%3Aissue+is%3Aclosed) [![twitter](https://img.shields.io/twitter/follow/mernjs?style=social)](https://twitter.com/mernjs) [![Gitter](https://badges.gitter.im/mernjs/mernjs.svg)](https://gitter.im/mernjs/mernjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![npm downloads](https://img.shields.io/npm/dy/@mernjs/cli)](https://www.npmjs.com/package/@mernjs/cli)
 
-You can use the [editor on GitHub](https://github.com/mernjs/cli/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# MERN.JS Super Simple Boilerplate
+MERN.JS is a super simple boilerplate for building web and mobile apps in pure JavaScript
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Installation
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### 1. Install @mernjs/cli globally   
+```
+npm i -g @mernjs/cli
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 2. Create a new cli following the commmand prompts by running the `mernjs` command   
+```
+mernjs
+```
 
-### Jekyll Themes
+### 3. Create new application using cli   
+```
+mernjs init my_project
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mernjs/cli/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 4. CD into newly created project directory   
+```
+cd my_project
+```
 
-### Support or Contact
+### 5. Run newly created application   
+```
+mernjs serve
+```
+	
+## Support
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any issues or bugs, report in our [Github](https://github.com/mernjs/cli/issues).
+
+Please email us with any query via mernjscommunity@gmail.com.
+
+## Social
+
+Follow us on [Facebook](https://www.facebook.com/), [Twitter](https://twitter.com/mernjs), [LinkedIn](https://www.linkedin.com/in/mernjs-community-269551191/) and [Youtube](https://www.youtube.com/channel/UCAcmuHoa3sEN_KuwFYk6xMw) for updates, news, and information on the MERN.JS stack.
+
+Join us on the [Gitter Group](https://gitter.im/mernjs/mernjs), [Google Group](https://groups.google.com/g/mernjs) and [Facebook Group](https://www.facebook.com/) to discuss features, questions, and suggestions.
+
+## Links
+[Changelog](https://github.com/mernjs/cli/releases)
+
+[Gitter](https://gitter.im/mernjs/mernjs)
+
+[Facebook](https://www.facebook.com/)
+
+[Twitter](https://twitter.com/mernjs)
+
+[LinkedIn](https://www.linkedin.com/in/mernjs-community-269551191/)
+
+[Youtube](https://www.youtube.com/channel/UCAcmuHoa3sEN_KuwFYk6xMw)
