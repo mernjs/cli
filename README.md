@@ -1,3 +1,5 @@
+# [![npm version](https://img.shields.io/npm/v/@mernjs/cli)](https://www.npmjs.com/package/@mernjs/cli) [![github open issues](https://img.shields.io/github/issues-raw/mernjs/cli)](https://github.com/mernjs/cli/issues) [![github close issues](https://img.shields.io/github/issues-closed-raw/mernjs/cli)](https://github.com/mernjs/cli/issues?q=is%3Aissue+is%3Aclosed) [![twitter](https://img.shields.io/twitter/follow/mernjs?style=social)](https://twitter.com/mernjs) [![Gitter](https://badges.gitter.im/mernjs/mernjs.svg)](https://gitter.im/mernjs/mernjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![npm downloads](https://img.shields.io/npm/dy/@mernjs/cli)](https://www.npmjs.com/package/@mernjs/cli)
+
 # MERN.JS Super Simple Boilerplate
 MERN.JS is a super simple boilerplate for building web and mobile apps in pure JavaScript
 
@@ -29,8 +31,6 @@ mernjs serve
 ```
 
 ## Links
-[Facebook](https://www.facebook.com/mernjs)
-
 [Twitter](https://twitter.com/mernjs)
 
 [LinkedIn](https://www.linkedin.com/in/mernjs-community-269551191/)
