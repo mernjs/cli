@@ -1,6 +1,6 @@
 {
   "name": "mernjs-cli",
-  "version": "0.0.7",
+  "version": "1.0.1",
   "description": "MERN.JS is a super simple boilerplate for building web and mobile apps in pure JavaScript",
   "main": "index.js",
   "scripts": {
