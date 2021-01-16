@@ -1,7 +1,8 @@
 # [![npm version](https://img.shields.io/npm/v/@mernjs/cli)](https://www.npmjs.com/package/@mernjs/cli) [![github open issues](https://img.shields.io/github/issues-raw/mernjs/cli)](https://github.com/mernjs/cli/issues) [![github close issues](https://img.shields.io/github/issues-closed-raw/mernjs/cli)](https://github.com/mernjs/cli/issues?q=is%3Aissue+is%3Aclosed) [![twitter](https://img.shields.io/twitter/follow/mernjs?style=social)](https://twitter.com/mernjs) [![Gitter](https://badges.gitter.im/mernjs/mernjs.svg)](https://gitter.im/mernjs/mernjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![npm downloads](https://img.shields.io/npm/dy/@mernjs/cli)](https://www.npmjs.com/package/@mernjs/cli)
 
 # MERN.JS Super Simple Boilerplate
-MERN.JS is a super simple boilerplate for building web and mobile apps in pure JavaScript
+MERN.JS is a super simple boilerplate for building web and mobile apps in pure JavaScript. [Documentation](http://mernjs.org)
+
 
 ## Installation
 
@@ -10,7 +11,7 @@ MERN.JS is a super simple boilerplate for building web and mobile apps in pure J
 npm i -g @mernjs/cli
 ```
 
-### 2. Create a new cli following the commmand prompts by running the `mernjs` command   
+### 2. To list out all available commands by running the `mernjs` command   
 ```
 mernjs
 ```
@@ -29,7 +30,13 @@ cd my_project
 ```
 mernjs serve
 ```
-	
+
+## Help and Version   
+```
+mernjs --version // check cli version
+mernjs --help  // get help and check cli usage 
+```
+
 ## Support
 
 If you have any issues or bugs, report in our [Github](https://github.com/mernjs/cli/issues).
@@ -43,6 +50,8 @@ Follow us on [Facebook](https://www.facebook.com/), [Twitter](https://twitter.co
 Join us on the [Gitter Group](https://gitter.im/mernjs/mernjs), [Google Group](https://groups.google.com/g/mernjs) and [Facebook Group](https://www.facebook.com/) to discuss features, questions, and suggestions.
 
 ## Links
+[Website](http://mernjs.org)
+
 [Changelog](https://github.com/mernjs/cli/releases)
 
 [Gitter](https://gitter.im/mernjs/mernjs)
