@@ -8,369 +8,44 @@
 
 
 <url>
-  <loc>https://www.mernjs.org/</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
+  <loc>https://mernjs.org/</loc>
+  <lastmod>2021-01-18T17:52:42+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.mernjs.org/docs/v2/installation</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
+  <loc>https://mernjs.org/installation</loc>
+  <lastmod>2021-01-18T17:52:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.mernjs.org/docs/v2/version</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
+  <loc>https://mernjs.org/versions</loc>
+  <lastmod>2021-01-18T17:52:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.mernjs.org/docs/v1/installation</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
+  <loc>https://mernjs.org/generator</loc>
+  <lastmod>2021-01-18T17:52:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.mernjs.org/docs/v2/generator</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
+  <loc>https://mernjs.org/packages</loc>
+  <lastmod>2021-01-18T17:52:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.mernjs.org/docs/v2/packages</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
+  <loc>https://mernjs.org/community</loc>
+  <lastmod>2021-01-18T17:52:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.mernjs.org/docs/v2/changelog</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
+  <loc>https://mernjs.org/directory-structure</loc>
+  <lastmod>2021-01-18T17:52:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.mernjs.org/docs/v2/community</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
+  <loc>https://mernjs.org/deployment</loc>
+  <lastmod>2021-01-18T17:52:42+00:00</lastmod>
   <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/introduction</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/directory-structure</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/deployment</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/routing</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/models</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/view</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/controller</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/request</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/response</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/middleware</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/session</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/cookie</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/validation</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/error-handling</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/ejs-template</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/reactjs</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/authentication</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/api-authentication</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/queries</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/pagination</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/migrations</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/seeding</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/one-to-one</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/one-to-many</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/many-to-many</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/has-one-through</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/has-many-through</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/array</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/mail</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/changelog</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/version</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/generator</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/packages</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/community</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/introduction</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/directory-structure</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/deployment</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/routing</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/models</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/view</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/controller</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/request</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/response</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/middleware</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/session</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/cookie</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/validation</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/error-handling</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/ejs-template</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/reactjs</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/authentication</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/api-authentication</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/queries</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/pagination</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/migrations</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/seeding</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/one-to-one</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/one-to-many</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/many-to-many</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/has-one-through</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/has-many-through</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/array</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/mail</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v2/docs/0.3.1</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.mernjs.org/docs/v1/docs/0.3.1</loc>
-  <lastmod>2020-04-05T15:13:28+00:00</lastmod>
-  <priority>0.41</priority>
 </url>
 
 
