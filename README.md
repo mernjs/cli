@@ -58,6 +58,9 @@ Follow us on [Facebook](https://www.facebook.com/), [Twitter](https://twitter.co
 
 Join us on the [Gitter Group](https://gitter.im/mernjs/mernjs) or [Google Group](https://groups.google.com/g/mernjs) for support, discussion, and suggestions.
 
+## License
+[MIT License](https://github.com/mernjs/cli/blob/master/LICENSE) Copyright (c) 2021 MernJs Community
+
 ## Links
 [Website](http://mernjs.org)
 
