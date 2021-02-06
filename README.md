@@ -1,4 +1,4 @@
-# [![npm version](https://img.shields.io/npm/v/@mernjs/cli)](https://www.npmjs.com/package/@mernjs/cli) [![github open issues](https://img.shields.io/github/issues-raw/mernjs/cli)](https://github.com/mernjs/cli/issues) [![github close issues](https://img.shields.io/github/issues-closed-raw/mernjs/cli)](https://github.com/mernjs/cli/issues?q=is%3Aissue+is%3Aclosed) [![twitter](https://img.shields.io/twitter/follow/mernjs?style=social)](https://twitter.com/mernjs) [![Gitter](https://badges.gitter.im/mernjs/mernjs.svg)](https://gitter.im/mernjs/mernjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![npm downloads](https://img.shields.io/npm/dy/@mernjs/cli)](https://www.npmjs.com/package/@mernjs/cli)
+# [![mit license](https://img.shields.io/github/license/mernjs/cli)](https://github.com/mernjs/cli/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/@mernjs/cli)](https://www.npmjs.com/package/@mernjs/cli) [![github open issues](https://img.shields.io/github/issues-raw/mernjs/cli)](https://github.com/mernjs/cli/issues) [![github close issues](https://img.shields.io/github/issues-closed-raw/mernjs/cli)](https://github.com/mernjs/cli/issues?q=is%3Aissue+is%3Aclosed) [![twitter](https://img.shields.io/twitter/follow/mernjs?style=social)](https://twitter.com/mernjs) [![Gitter](https://badges.gitter.im/mernjs/mernjs.svg)](https://gitter.im/mernjs/mernjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![npm downloads](https://img.shields.io/npm/dy/@mernjs/cli)](https://www.npmjs.com/package/@mernjs/cli)
 
 # MERN.JS Super Simple Boilerplate
 MERN.JS is a super simple boilerplate for building web and mobile apps in pure JavaScript, released as free and open-source software under the MIT License.
@@ -42,7 +42,7 @@ mernjs --help  // get help and check cli usage
 
 ## Before You Begin 
 
-After downloading the source code, go over the official documentation of [NodeJs](https://nodejs.org/), [ExpressJs](http://expressjs.com/), [ReactJs](https://reactjs.org/), [React Native](https://reactnative.dev/), and [MongoDB](http://mongodb.org/), then continue with the [MernJs](https://mernjs.org/installation)
+After downloading the source code, go over the official documentation of [NodeJs](https://nodejs.org/), [ExpressJs](http://expressjs.com/), [ReactJs](https://reactjs.org/), [React Native](https://reactnative.dev/), and [MongoDB](http://mongodb.org/), then continue with the [MernJs](https://mernjs.org/installation).
 
 ## Support
 
@@ -59,7 +59,7 @@ Follow us on [Facebook](https://www.facebook.com/), [Twitter](https://twitter.co
 Join us on the [Gitter Group](https://gitter.im/mernjs/mernjs) or [Google Group](https://groups.google.com/g/mernjs) for support, discussion, and suggestions.
 
 ## License
-[MIT License](https://github.com/mernjs/cli/blob/master/LICENSE) Copyright (c) 2021 MernJs Community
+[MIT License](https://github.com/mernjs/cli/blob/master/LICENSE) Copyright (c) 2021 MernJs Community.
 
 ## Links
 [Website](http://mernjs.org)
