@@ -1,9 +1,14 @@
 # [![mit license](https://img.shields.io/github/license/mernjs/cli)](https://github.com/mernjs/cli/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/@mernjs/cli)](https://www.npmjs.com/package/@mernjs/cli) [![github open issues](https://img.shields.io/github/issues-raw/mernjs/cli)](https://github.com/mernjs/cli/issues) [![github close issues](https://img.shields.io/github/issues-closed-raw/mernjs/cli)](https://github.com/mernjs/cli/issues?q=is%3Aissue+is%3Aclosed) [![twitter](https://img.shields.io/twitter/follow/mernjs?style=social)](https://twitter.com/mernjs) [![Gitter](https://badges.gitter.im/mernjs/mernjs.svg)](https://gitter.im/mernjs/mernjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![npm downloads](https://img.shields.io/npm/dy/@mernjs/cli)](https://www.npmjs.com/package/@mernjs/cli)
 
-# MERN.JS Super Simple Boilerplate
+## MERN.JS Super Simple Boilerplate
 MERN.JS is a super simple boilerplate for building web and mobile apps in pure JavaScript, released as free and open-source software under the MIT License.
 
 > MernJs is ready to use for production
+
+## Before You Begin 
+Before we begin, recommend to read about the basic building blocks that assemble a MERN.JS application:
+
+Go over the official documentation of [NodeJs](https://nodejs.org/), [ExpressJs](http://expressjs.com/), [ReactJs](https://reactjs.org/), [React Native](https://reactnative.dev/), and [MongoDB](http://mongodb.org/), then continue with the [MernJs](https://mernjs.org/installation).
 
 ## Installation
 
@@ -40,9 +45,14 @@ mernjs --version // check cli version
 mernjs --help  // get help and check cli usage 
 ```
 
-## Before You Begin 
+## Documentation
+- Follow [our installing guide](https://mernjs.org/installation) for more information.
+- Follow [our deployment guide](https://mernjs.org/installation).
+- Read about [our folder structure](https://mernjs.org/installation).
+- Read about [list of all cli](https://mernjs.org/generator) built in mernjs.
 
-After downloading the source code, go over the official documentation of [NodeJs](https://nodejs.org/), [ExpressJs](http://expressjs.com/), [ReactJs](https://reactjs.org/), [React Native](https://reactnative.dev/), and [MongoDB](http://mongodb.org/), then continue with the [MernJs](https://mernjs.org/installation).
+## Showcase
+Available lot of [our demo projects](https://mernjs.org/showcase) built in mernjs.
 
 ## Support
 
@@ -50,7 +60,7 @@ If you have any issues or bugs, report in our [Github](https://github.com/mernjs
 
 Please email us with any query via mernjscommunity@gmail.com.
 
-## Docs & Community
+## Community
 
 [Website and Documentation](http://mernjs.org) - [github repo](https://github.com/mernjs/cli)
 
