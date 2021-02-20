@@ -51,8 +51,8 @@ mernjs --help  // get help and check cli usage
 - Read about [our folder structure](https://mernjs.org/installation).
 - Read about [list of all cli](https://mernjs.org/generator) built in mernjs.
 
-## Showcase
-Available lot of [our demo projects](https://mernjs.org/showcase) built in mernjs.
+## Sample Apps
+The following is a list of the sample apps built in the [MernJs](https://mernjs.org/showcase).
 
 ## Support
 
@@ -61,8 +61,6 @@ If you have any issues or bugs, report in our [Github](https://github.com/mernjs
 Please email us with any query via mernjscommunity@gmail.com.
 
 ## Community
-
-[Website and Documentation](http://mernjs.org) - [github repo](https://github.com/mernjs/cli)
 
 Follow us on [Facebook](https://www.facebook.com/), [Twitter](https://twitter.com/mernjs), [LinkedIn](https://www.linkedin.com/in/mernjs-community-269551191/) and [Youtube](https://www.youtube.com/channel/UCAcmuHoa3sEN_KuwFYk6xMw) for updates, news, and information on the MERN.JS stack.
 
