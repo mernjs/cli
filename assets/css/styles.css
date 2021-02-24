@@ -167,8 +167,8 @@ code {
 }
 
 .btn-pink, a.btn-pink {
-    background: #EA5395;
-    border: 1px solid #EA5395;
+    background: #4c84ff;
+    border: 1px solid #4c84ff;
     color: #fff !important;
     margin-bottom: 10px;
 }
@@ -303,7 +303,7 @@ select {
 }
 
 .body-pink .branding .text-highlight {
-  color: #EA5395;
+  color: #4c84ff;
 }
 
 .body-purple .branding .text-highlight {
@@ -337,7 +337,7 @@ select {
 }
 
 .body-pink .branding .icon {
-  color: #EA5395;
+  color: #4c84ff;
 }
 
 .body-purple .branding .icon {
@@ -424,7 +424,7 @@ select {
 }
 
 .footer .fa-heart {
-  color: #EA5395;
+  color: #4c84ff;
 }
 
 @media (max-width: 575.98px) {
@@ -473,7 +473,7 @@ select {
 }
 
 .body-pink .doc-header .doc-title {
-  color: #EA5395;
+  color: #4c84ff;
 }
 
 .body-purple .doc-header .doc-title {
@@ -866,11 +866,11 @@ select {
 }
 
 .body-pink .header {
-  border-color: #EA5395;
+  border-color: #4c84ff;
 }
 
 .body-pink a {
-  color: #EA5395;
+  color: #4c84ff;
 }
 
 .body-pink a:hover {
@@ -984,8 +984,8 @@ a:hover{
 }
 
 .body-pink .doc-menu .nav-link.active {
-  color: #EA5395;
-  border-color: #EA5395;
+  color: #4c84ff;
+  border-color: #4c84ff;
 }
 
 .body-purple .doc-menu .nav-link.active {
@@ -1044,7 +1044,7 @@ a:hover{
 }
 
 .body-pink .doc-sub-menu .nav-link.active {
-  color: #EA5395;
+  color: #4c84ff;
 }
 
 .body-purple .doc-sub-menu .nav-link.active {
@@ -1164,7 +1164,7 @@ a:hover{
 }
 
 .promo-block .figure-holder-inner .mask .svg-inline--fa.pink {
-  color: #EA5395;
+  color: #4c84ff;
 }
 
 .promo-block .figure-holder-inner:hover .mask {
@@ -1287,7 +1287,7 @@ a:hover{
 }
 
 .landing-page .fa-heart {
-  color: #EA5395;
+  color: #4c84ff;
 }
 
 .landing-page .cta-container {
@@ -1443,7 +1443,7 @@ a:hover{
 }
 
 .cards-section .item-pink .item-inner {
-  border-top: 3px solid #EA5395;
+  border-top: 3px solid #4c84ff;
 }
 
 .cards-section .item-pink .item-inner:hover .title {
@@ -1451,7 +1451,7 @@ a:hover{
 }
 
 .cards-section .item-pink .icon {
-  color: #EA5395;
+  color: #4c84ff;
 }
 
 .cards-section .item-purple .item-inner {
