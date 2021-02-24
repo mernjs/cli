@@ -111,8 +111,8 @@ code {
 }
 
 .btn-green, a.btn-green {
-  background: #75c181;
-  border: 1px solid #75c181;
+  background: #4c84ff;
+  border: 1px solid #4c84ff;
   color: #fff !important;
 }
 
@@ -287,7 +287,7 @@ select {
 }
 
 .body-green .branding .text-highlight {
-  color: #75c181;
+  color: #4c84ff;
 }
 
 .body-blue .branding .text-highlight {
@@ -321,7 +321,7 @@ select {
 }
 
 .body-green .branding .icon {
-  color: #75c181;
+  color: #4c84ff;
 }
 
 .body-blue .branding .icon {
@@ -457,7 +457,7 @@ select {
 }
 
 .body-green .doc-header .doc-title {
-  color: #75c181;
+  color: #4c84ff;
 }
 
 .body-blue .doc-header .doc-title {
@@ -646,7 +646,7 @@ select {
 }
 
 .callout-success {
-  background: #75c181;
+  background: #4c84ff;
   color: #fff;
 }
 
@@ -830,11 +830,11 @@ select {
 
 /* Color Schemes */
 .body-green .header {
-  border-color: #75c181;
+  border-color: #4c84ff;
 }
 
 .body-green a {
-  color: #75c181;
+  color: #4c84ff;
 }
 
 .body-green a:hover {
@@ -964,8 +964,8 @@ a:hover{
 }
 
 .body-green .doc-menu .nav-link.active {
-  color: #75c181;
-  border-color: #75c181;
+  color: #4c84ff;
+  border-color: #4c84ff;
 }
 
 .body-blue .doc-menu .nav-link.active {
@@ -1028,7 +1028,7 @@ a:hover{
 }
 
 .body-green .doc-sub-menu .nav-link.active {
-  color: #75c181;
+  color: #4c84ff;
 }
 
 .body-blue .doc-sub-menu .nav-link.active {
@@ -1395,7 +1395,7 @@ a:hover{
 }
 
 .cards-section .item-green .item-inner {
-  border-top: 3px solid #75c181;
+  border-top: 3px solid #4c84ff;
 }
 
 .cards-section .item-green .item-inner:hover .title {
@@ -1403,7 +1403,7 @@ a:hover{
 }
 
 .cards-section .item-green .icon {
-  color: #75c181;
+  color: #4c84ff;
 }
 
 .cards-section .item-blue .item-inner {
