@@ -52,7 +52,7 @@
     cursor: pointer;
     list-style-type: none;
     margin-left: 20px;
-    display: block;
+    display: none;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
