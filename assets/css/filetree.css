@@ -13,7 +13,6 @@
     margin-left: -20px;
     display: inline-block;
     width: 20px;
-    color:  #4c84ff
 }
 
 
@@ -52,7 +51,7 @@
     cursor: pointer;
     list-style-type: none;
     margin-left: 20px;
-    display: none;
+    display: block;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;

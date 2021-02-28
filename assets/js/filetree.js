@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    // $('body').find('.tree').fadeOut(0);
+    $('body').find('.tree').fadeOut(0);
 
     $('.tree-title').click(function () {
         setStatus($(this));
