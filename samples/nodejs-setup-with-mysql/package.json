@@ -13,6 +13,7 @@
     "seeder": "knex --knexfile src/database/dbconfig/DB_mysql_config.js",
     "migration": "knex --knexfile src/database/dbconfig/DB_mysql_config.js"
   },
+  "author": "author_email",
   "dependencies": {
     "body-parser": "^1.19.0",
     "bookshelf": "^1.2.0",

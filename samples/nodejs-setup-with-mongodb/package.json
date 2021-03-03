@@ -11,6 +11,7 @@
     "forever-restart": "forever restart server.js",
     "forever-stop": "forever stop server.js"
   },
+  "author": "author_email",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",

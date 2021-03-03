@@ -10,6 +10,7 @@
     "test": "jest",
     "lint": "eslint ."
   },
+  "author": "author_email",
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.7.4",
