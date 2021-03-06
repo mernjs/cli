@@ -1,5 +1,5 @@
 import React from "react";
-import App, { Container } from "next/app";
+import App from "next/app";
 import { Provider } from "react-redux";
 import withRedux from "next-redux-wrapper";
 import { makeStore } from "../engine/store";
@@ -15,11 +15,9 @@ class MyApp extends App {
     render() {
         const { Component, pageProps, store, router } = this.props;
         return (
-            <Container>
-                <Provider store={store}>
-                    <Component {...pageProps} router={router} />
-                </Provider>
-            </Container>
+            <Provider store={store}>
+                <Component {...pageProps} router={router} />
+            </Provider>
         )
     }
 }
