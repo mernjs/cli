@@ -1,0 +1,27 @@
+import React from "react";
+import App, { Container } from "next/app";
+import { Provider } from "react-redux";
+import withRedux from "next-redux-wrapper";
+import { makeStore } from "../engine/store";
+import '../assets/css/app.css'
+
+class MyApp extends App {
+    
+    static async getInitialProps({ Component, ctx }) {
+        const pageProps = Component.getInitialProps ? await Component.getInitialProps(ctx) : {};
+        return { pageProps };
+    }
+
+    render() {
+        const { Component, pageProps, store, router } = this.props;
+        return (
+            <Container>
+                <Provider store={store}>
+                    <Component {...pageProps} router={router} />
+                </Provider>
+            </Container>
+        )
+    }
+}
+
+export default withRedux(makeStore)(MyApp);
