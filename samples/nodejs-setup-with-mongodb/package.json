@@ -6,6 +6,7 @@
   "appId": "mernjs_app_id",
   "scripts": {
     "node": "node server.js",
+    "dev": "nodemon server.js",
     "start": "nodemon server.js",
     "forever-start": "forever start server.js",
     "forever-restart": "forever restart server.js",
